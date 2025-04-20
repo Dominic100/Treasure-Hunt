@@ -6,6 +6,11 @@ TagManager:
   tags:
   - Enemy
   - Coin
+  - Ladder
+  - Ground
+  - GroundChaseEnemy
+  - GroundHopEnemy
+  - AirChaseEnemy
   layers:
   - Default
   - TransparentFX
@@ -14,10 +19,10 @@ TagManager:
   - Water
   - UI
   - Ground
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - OnlyGround
+  - GroundHopper
+  - AirEnemy
   - 
   - 
   - 

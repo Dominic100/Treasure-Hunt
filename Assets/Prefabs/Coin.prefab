@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5528971634350943019}
   - component: {fileID: 8173038425702353553}
   - component: {fileID: 6478622748679266997}
+  - component: {fileID: 1090604682367183108}
   m_Layer: 0
   m_Name: Coin
   m_TagString: Untagged
@@ -152,3 +153,15 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &1090604682367183108
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5131212838312444518}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26bc8f2dc98a019458922ce0ee03f33c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
